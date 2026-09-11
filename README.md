@@ -157,6 +157,6 @@ jupyter notebook task2_sentiment_analysis.ipynb
 3. **Copy & Paste URL for Student LMS Submission**:
    Paste your GitHub repository link:
    ```
-   https://github.com/Prashanthlevadi/NLP
+   https://github.com/Prashanthlevadi/NLP-
    ```
    into the **Task 2 submission field** in the Student LMS.
