@@ -1,0 +1,21 @@
+id,domain,text,ground_truth,predicted,confidence,status
+1,Electronics,"The battery life on this laptop is incredible, lasting over 14 hours on a single charge!",POSITIVE,POSITIVE,0.9983,PASS
+2,Customer Service,Extremely disappointing customer service; they kept me on hold for 45 minutes and dropped the call.,NEGATIVE,NEGATIVE,0.9998,PASS
+3,Audio Equipment,This wireless noise-canceling headphone delivers crisp highs and deeply satisfying bass.,POSITIVE,POSITIVE,0.9994,PASS
+4,E-commerce Logistics,"The package arrived damaged, two days late, and the item inside was completely shattered.",NEGATIVE,NEGATIVE,0.9995,PASS
+5,Hospitality,"The restaurant exceeded our expectations with delicious food, cozy ambiance, and prompt service.",POSITIVE,POSITIVE,0.9999,PASS
+6,Software,The software update rendered my tablet sluggish and caused constant app crashes.,NEGATIVE,NEGATIVE,0.9998,PASS
+7,Smart Home Tech,Super easy setup process! I had the smart home setup running seamlessly in less than ten minutes.,POSITIVE,NEGATIVE,0.9921,FAIL
+8,Consumer Hardware,Terrible build quality for the price; the plastic frame felt flimsy and broke after three days.,NEGATIVE,NEGATIVE,0.9997,PASS
+9,Entertainment,A breathtaking cinematic masterpiece with stunning visuals and outstanding performances by the lead cast.,POSITIVE,POSITIVE,0.9999,PASS
+10,Hospitality,"The hotel room was filthy, smelled like smoke, and had no hot water available.",NEGATIVE,NEGATIVE,0.9997,PASS
+11,Customer Support,I am genuinely impressed by how fast the customer support team resolved my refund request.,POSITIVE,POSITIVE,0.9997,PASS
+12,Mobile App,"The application interface is confusing, unintuitive, and constantly freezes during checkout.",NEGATIVE,NEGATIVE,0.9994,PASS
+13,Smartphones,"Fast charging speed, beautiful AMOLED display, and ultra-smooth performance make this phone a winner.",POSITIVE,POSITIVE,0.9997,PASS
+14,Apparel,"The sweater shrank significantly after a single cold wash, completely ruining the fit.",NEGATIVE,NEGATIVE,0.9997,PASS
+15,Food & Beverage,"Exceptional quality coffee beans; the espresso shot was rich, smooth, and full of flavor.",POSITIVE,POSITIVE,0.9999,PASS
+16,E-commerce,Completely misleading product description; the dimensions listed online were totally wrong.,NEGATIVE,NEGATIVE,0.9997,PASS
+17,Furniture,The ergonomic office chair provided instant relief for my lower back pain during long work hours.,POSITIVE,POSITIVE,0.9759,PASS
+18,SaaS Platform,Overpriced subscription fee for a service that constantly suffers from server outages.,NEGATIVE,NEGATIVE,0.9995,PASS
+19,Kitchen Appliances,"The kitchen blender handles frozen fruit and ice with effortless ease, making perfect smoothies.",POSITIVE,POSITIVE,0.9998,PASS
+20,Hardware,Extremely noisy fan and terrible thermal management; the laptop gets dangerously hot.,NEGATIVE,NEGATIVE,0.9984,PASS

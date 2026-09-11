@@ -1,0 +1,21 @@
+id,text,ground_truth,domain
+1,"The battery life on this laptop is incredible, lasting over 14 hours on a single charge!",POSITIVE,Electronics
+2,"Extremely disappointing customer service; they kept me on hold for 45 minutes and dropped the call.",NEGATIVE,Customer Service
+3,"This wireless noise-canceling headphone delivers crisp highs and deeply satisfying bass.",POSITIVE,Audio Equipment
+4,"The package arrived damaged, two days late, and the item inside was completely shattered.",NEGATIVE,E-commerce Logistics
+5,"The restaurant exceeded our expectations with delicious food, cozy ambiance, and prompt service.",POSITIVE,Hospitality
+6,"The software update rendered my tablet sluggish and caused constant app crashes.",NEGATIVE,Software
+7,"Super easy setup process! I had the smart home setup running seamlessly in less than ten minutes.",POSITIVE,Smart Home Tech
+8,"Terrible build quality for the price; the plastic frame felt flimsy and broke after three days.",NEGATIVE,Consumer Hardware
+9,"A breathtaking cinematic masterpiece with stunning visuals and outstanding performances by the lead cast.",POSITIVE,Entertainment
+10,"The hotel room was filthy, smelled like smoke, and had no hot water available.",NEGATIVE,Hospitality
+11,"I am genuinely impressed by how fast the customer support team resolved my refund request.",POSITIVE,Customer Support
+12,"The application interface is confusing, unintuitive, and constantly freezes during checkout.",NEGATIVE,Mobile App
+13,"Fast charging speed, beautiful AMOLED display, and ultra-smooth performance make this phone a winner.",POSITIVE,Smartphones
+14,"The sweater shrank significantly after a single cold wash, completely ruining the fit.",NEGATIVE,Apparel
+15,"Exceptional quality coffee beans; the espresso shot was rich, smooth, and full of flavor.",POSITIVE,Food & Beverage
+16,"Completely misleading product description; the dimensions listed online were totally wrong.",NEGATIVE,E-commerce
+17,"The ergonomic office chair provided instant relief for my lower back pain during long work hours.",POSITIVE,Furniture
+18,"Overpriced subscription fee for a service that constantly suffers from server outages.",NEGATIVE,SaaS Platform
+19,"The kitchen blender handles frozen fruit and ice with effortless ease, making perfect smoothies.",POSITIVE,Kitchen Appliances
+20,"Extremely noisy fan and terrible thermal management; the laptop gets dangerously hot.",NEGATIVE,Hardware
